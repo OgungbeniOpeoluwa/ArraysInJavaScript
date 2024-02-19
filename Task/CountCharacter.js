@@ -6,7 +6,6 @@ const returnCharacter = (input)=>{
         obj[value]=result
     }
     return obj
-
 }
 
 function countCharacter(char, input){
@@ -18,6 +17,5 @@ function countCharacter(char, input){
 
     }
     return result;
-
 }
 module.exports = {returnCharacter};
